@@ -15,7 +15,7 @@ My experience includes developing AI-driven solutions for health monitoring, ima
   - **Image Processing**: Created AI solutions to validate headshot orientations and extract data from scanned documents.
 
 ## Tools & Technologies
-- **Languages**: Python, SQL
+- **Languages**: Python, R & SQL
 - **Frameworks/Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras, FastAPI, Flask, Django
 - **Tools**: Postman, Docker, Kubernetes, GitHub
 
