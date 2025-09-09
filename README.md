@@ -1,7 +1,7 @@
 # Hello, I'm Mehak Rafiq👋
 
 ## About Me
-I'm a data scientist with a PhD in Bioinformatics from the UK, currently working as an assistant professor at NUST. 
+I'm a data scientist with a PhD in Informatics from the UK, currently working as an assistant professor at NUST. 
 I specialize in machine learning, with a focus on generative AI, data analytics, and deep learning technologies. 
 My experience includes developing AI-driven solutions for health monitoring, image processing, and data extraction from complex datasets.
 
