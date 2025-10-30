@@ -1,34 +1,33 @@
 # Hello, I'm Mehak Rafiq👋
 
-## About Me
-I'm a data scientist with a PhD in Informatics from the UK, currently working as an assistant professor at NUST. 
-I specialize in machine learning, with a focus on generative AI, data analytics, and deep learning technologies. 
-My experience includes developing AI-driven solutions for health monitoring, image processing, and data extraction from complex datasets.
+I build production ML systems for **banks and government**—from RAG chatbots to OCR pipelines and on-prem GPU inference.
 
-## Expertise
-- **Generative AI**: Experience in designing and deploying models that automate and enhance creative processes.
-- **Data Analytics**: Skilled in transforming complex datasets into actionable insights.
-- **Machine Learning**: Extensive background in neural networks, deep learning, and algorithm optimization.
-- **Project Highlights**:
-  - **Health Monitoring**: Developed algorithms for wearable technologies to monitor soldier health.
-  - **ECG Classification**: Utilized neural networks for the classification of 12-lead ECG signals.
-  - **Image Processing**: Created AI solutions to validate headshot orientations and extract data from scanned documents.
+- **GenAI & RAG:** domain-grounded chatbots (policies, fees, processes) with citations  
+- **Vision + OCR:** ID/passport detection (YOLO) → structured JSON via OCR  
+- **GPU MLOps:** containerized inference, NGINX reverse proxy, secure access controls  
+- **Analytics & Automation:** BI glue, LLM agents, ops dashboards
 
-## Tools & Technologies
-- **Languages**: Python, R & SQL
-- **Frameworks/Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras, FastAPI, Flask, Django
-- **Tools**: Postman, Docker, Kubernetes, GitHub
+## What I’m working on
+- **Askari internal GenAI stack:** multi-bot UAT on a single GPU server (HR, Retail, Compliance)  
+- **RAG-style Chatbot:** precise fee/eligibility answers with retrieval tests  
+- **OCR/ID pipeline:** YOLO detection + OCR (Tesseract/DocTR) with clean JSON outputs
 
-## Current Projects
-- **Skill Database Development**: Leading a project to develop a skills database from job titles using AI.
-- **Image Analysis for CVB**: Enhancing image processing algorithms for commercial applications.
+## Featured Projects
+- **HR Chatbot (RAG)** → `hr-chatbot`  
+- **Ops / Work Tracking** → `work-tracking`  
+- **NADRA RAG Bot (Showcase)** → `nadra-rag-bot`  
+- **OCR for IDs (Showcase)** → `ocr-id-pipeline`  
+- **GenAI Stack Overview (Showcase)** → `askari-genai-stack`  
+- **GPU Server Infra (Showcase)** → `gpu-server-infra`
+
+## Tech
+Python • PyTorch • FastAPI/Flask • YOLO • Tesseract/DocTR • FAISS/Chroma • Docker • NGINX • GitHub Actions
 
 ## Contact Me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mehakrafiq)
 - **GitHub**: [GitHub Profile](https://github.com/mehakrafiq)
 
 Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my expertise.
-
 
 <!--
 **mehakrafiq/mehakrafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
